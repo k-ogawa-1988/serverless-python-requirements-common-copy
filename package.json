@@ -1,0 +1,26 @@
+{
+  "name": "serverless-python-requirements-common-copy",
+  "version": "0.0.1",
+  "description": "A Serverless framework plugin to copy specified directory or file into artifact",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenichi-ogawa-1988/serverless-python-requirements-common-copy.git"
+  },
+  "keywords": [
+    "Serverless"
+  ],
+  "author": "Ken'ichi Ogawa <kenichi@ogwk.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenichi-ogawa-1988/serverless-python-requirements-common-copy/issues"
+  },
+  "homepage": "https://github.com/kenichi-ogawa-1988/serverless-python-requirements-common-copy#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "lodash": "^4.17.10"
+  }
+}
